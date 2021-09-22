@@ -9,3 +9,8 @@
 6.   TC2: Built-in XGBoost
 7.   TC3: BYOM TF FCN (?? How to data prep ??)
 8. Evaluate & Compare TC1, TC2, TC3 results
+9. Iterate and ddapt to Datathons
+10.   DT1: TK
+11.   DT2: DT
+12.   DT3: DH
+
